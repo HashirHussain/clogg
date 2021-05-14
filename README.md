@@ -17,7 +17,11 @@ write:
 
 ```js:
 conlog(myVariable);
-or;
+```
+
+or
+
+```js:
 conlog(myVariable, "some optional comment");
 ```
 
