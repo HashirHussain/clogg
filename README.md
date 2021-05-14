@@ -1,10 +1,10 @@
-# what is spit
+# what is conlog
 
 Alternative to `console.log`
 
 # installation
 
-`npm i spit --save`
+`npm i conlog --save`
 
 # Usage
 
@@ -17,7 +17,7 @@ console.log(myVariable);
 Use:
 
 ```
-spit(myVariable);
+conlog(myVariable);
 or
-spit(myVariable, 'some extra description -- optional');
+conlog(myVariable, 'some extra description -- optional');
 ```

@@ -21,7 +21,7 @@ function getValue(input) {
   return JSON.stringify(input);
 }
 
-function spit(input, comment) {
+function conlog(input, comment) {
   const time = `Time: ${getTime()}`;
   const type = `Type: ${getType(input)}`;
   const value = `Value: ${getValue(input)}`;
@@ -29,4 +29,4 @@ function spit(input, comment) {
   console.log(`${time}\n${type}\n${value}\n${_comment}`);
 }
 
-module.exports.spit = spit;
+module.exports.conlog = conlog;

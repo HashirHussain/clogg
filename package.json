@@ -1,0 +1,25 @@
+{
+  "name": "conlog",
+  "version": "1.0.0",
+  "description": "Alternative to console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashirHussain/conlog.git"
+  },
+  "keywords": [
+    "logging",
+    "console.log",
+    "print",
+    "conlog"
+  ],
+  "author": "Hashir Hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HashirHussain/conlog/issues"
+  },
+  "homepage": "https://github.com/HashirHussain/conlog#readme"
+}
