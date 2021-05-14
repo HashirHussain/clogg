@@ -1,23 +1,32 @@
-# what is conlog
+Having habit of using `console.log` frequently?
+Use **conlog**(**con**sole.**log**) instead.
 
-Alternative to `console.log`
-
-# installation
+### Installation
 
 `npm i conlog --save`
 
-# Usage
+### Usage
 
 Instead of:
 
-```
+```js:
 console.log(myVariable);
 ```
 
-Use:
+write:
 
-```
+```js:
 conlog(myVariable);
-or
-conlog(myVariable, 'some extra description -- optional');
+or;
+conlog(myVariable, "some optional comment");
+```
+
+Output:
+
+```js:
+conlog("my value", "this is example")
+Time: 1:19 am
+Type: string
+Value: "my value"
+Comment: this is example
 ```
