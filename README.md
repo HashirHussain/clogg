@@ -11,11 +11,13 @@ Alternative to `console.log`
 Instead of:
 
 ```
-console.log(abc);
+console.log(myVariable);
 ```
 
 Use:
 
 ```
-spit(abc);
+spit(myVariable);
+or
+spit(myVariable, 'some extra description -- optional');
 ```
