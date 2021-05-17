@@ -1,9 +1,9 @@
 Having habit of using `console.log` frequently?
-Use **sayit** instead.
+Use **clogg** instead.
 
 ### Installation
 
-`npm i sayit --save`
+`npm i clogg --save`
 
 ### Usage
 
@@ -16,19 +16,19 @@ console.log(myVariable);
 write:
 
 ```js:
-sayit(myVariable);
+clogg(myVariable);
 ```
 
 or
 
 ```js:
-sayit(myVariable, "some optional comment");
+clogg(myVariable, "some optional comment");
 ```
 
 Output:
 
 ```js:
-sayit("my value", "this is example")
+clogg("my value", "this is example")
 Time: 1:19 am
 Type: string
 Value: "my value"

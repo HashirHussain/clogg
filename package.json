@@ -1,5 +1,5 @@
 {
-  "name": "sayit",
+  "name": "clogg",
   "version": "1.0.0",
   "description": "Alternative to console.log",
   "main": "index.js",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HashirHussain/sayit.git"
+    "url": "git+https://github.com/HashirHussain/clogg.git"
   },
   "keywords": [
     "logging",
     "console.log",
     "print",
-    "sayit"
+    "clogg"
   ],
   "author": "Hashir Hussain",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HashirHussain/sayit/issues"
+    "url": "https://github.com/HashirHussain/clogg/issues"
   },
-  "homepage": "https://github.com/HashirHussain/sayit#readme"
+  "homepage": "https://github.com/HashirHussain/clogg#readme"
 }
