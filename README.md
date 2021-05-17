@@ -1,9 +1,9 @@
 Having habit of using `console.log` frequently?
-Use **conlog**(**con**sole.**log**) instead.
+Use **sayit** instead.
 
 ### Installation
 
-`npm i conlog --save`
+`npm i sayit --save`
 
 ### Usage
 
@@ -16,19 +16,19 @@ console.log(myVariable);
 write:
 
 ```js:
-conlog(myVariable);
+sayit(myVariable);
 ```
 
 or
 
 ```js:
-conlog(myVariable, "some optional comment");
+sayit(myVariable, "some optional comment");
 ```
 
 Output:
 
 ```js:
-conlog("my value", "this is example")
+sayit("my value", "this is example")
 Time: 1:19 am
 Type: string
 Value: "my value"

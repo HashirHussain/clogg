@@ -1,5 +1,5 @@
 {
-  "name": "conlog",
+  "name": "sayit",
   "version": "1.0.0",
   "description": "Alternative to console.log",
   "main": "index.js",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HashirHussain/conlog.git"
+    "url": "git+https://github.com/HashirHussain/sayit.git"
   },
   "keywords": [
     "logging",
     "console.log",
     "print",
-    "conlog"
+    "sayit"
   ],
   "author": "Hashir Hussain",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HashirHussain/conlog/issues"
+    "url": "https://github.com/HashirHussain/sayit/issues"
   },
-  "homepage": "https://github.com/HashirHussain/conlog#readme"
+  "homepage": "https://github.com/HashirHussain/sayit#readme"
 }
